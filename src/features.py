@@ -37,6 +37,7 @@ def transform_features(df: pd.DataFrame) -> pd.DataFrame:
             "hasPool",
             "isNewBuilt",
             "hasStormProtector",
+            "hasStorageRoom"
         ]
 
         for col in binary_cols:
