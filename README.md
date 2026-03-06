@@ -4,7 +4,7 @@ Live Application
 
 You can access the deployed application here:
 
-https://your-app-name.streamlit.app
+https://real-estate-ml-app-wu3lxwd9gqwc5ikf8kfyni.streamlit.app/
 
 Overview
 
