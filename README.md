@@ -1,4 +1,11 @@
 Real Estate Price Prediction – ML Deployment with Streamlit
+
+Live Application
+
+You can access the deployed application here:
+
+https://your-app-name.streamlit.app
+
 Overview
 
 This project implements a machine learning pipeline to predict real estate prices based on various property attributes such as house size, number of rooms, location indicators, and amenities.
